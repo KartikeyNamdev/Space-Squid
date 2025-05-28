@@ -68,7 +68,7 @@
     "uuid-1345": "^1.0.1",
     "vec3": "^0.1.8",
     "yaml": "^2.4.1",
-    "yargs": "^17.0.1"
+    "yargs": "^18.0.0"
   },
   "devDependencies": {
     "concurrently": "^8.2.2",
